@@ -2,6 +2,9 @@
 Simple server to control for sumo robot
 
 ## Instructions
+
+Connect Arduino
+
 ```
     npm i
     node .index.js
